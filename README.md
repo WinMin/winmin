@@ -1,4 +1,11 @@
-### Hi there 👋
+### About Me
+* Security researcher working @chaitin
+* CTF Player @FlappyPig @r3kapig
+* My Blog: https://bestwing.me/about/
+* My Twitter: https://twitter.com/bestswngs
+
+
+
 
 <!--
 **WinMin/winmin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
