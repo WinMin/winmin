@@ -1,9 +1,9 @@
 ## About Me
 - Security researcher working [Chaitin Tech.](https://www.chaitin.cn/en/)
 - CTF Player @FlappyPig @[r3kapig](http://r3kapig.com/)
-- [My Blog](https://bestwing.me), since 2015
-- [My Twitter](https://twitter.com/bestswngs)
-- [My gist](https://gist.github.com/WinMin) Store some vulnerability disclosures or special scripts
+- [Blog](https://bestwing.me)
+- [Twitter](https://twitter.com/bestswngs)
+- [gist](https://gist.github.com/WinMin) Store some vulnerability disclosures or special scripts
 
 ## Github stats
 
