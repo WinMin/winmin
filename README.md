@@ -1,11 +1,10 @@
 ## About Me
 - Security researcher working [Chaitin Tech.](https://www.chaitin.cn/en/)
 - CTF Player @FlappyPig @[r3kapig](http://r3kapig.com/)
-
-## Link
 - [Swing 's Blog 有恨无人省](https://bestwing.me)
 - [Swing 's Twitter](https://twitter.com/bestswngs)
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=winmin&show_icons=true&theme=radical" width="380">
+
+![](https://github-readme-stats.vercel.app/api?username=winmin&show_icons=true&theme=radical)
 
 
 <!--
