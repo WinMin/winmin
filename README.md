@@ -3,12 +3,10 @@
 - CTF Player @FlappyPig @[r3kapig](http://r3kapig.com/)
 
 ## Link
-- [Blog](https://bestwing.me)
-- [Twitter](https://twitter.com/bestswngs)
+- [Swing 's Blog 有恨无人省](https://bestwing.me)
+- [Swing 's Twitter](https://twitter.com/bestswngs)
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=winmin&show_icons=true&theme=radical" width="380">
 
-## Github stats
-
-![swing's github stats](https://github-readme-stats.vercel.app/api?username=winmin&count_private=true&show_icons=true)
 
 <!--
 **WinMin/winmin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
