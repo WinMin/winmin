@@ -3,7 +3,14 @@
 - CTF Player @FlappyPig @[r3kapig](http://r3kapig.com/)
 - [Blog](https://bestwing.me) | [Twitter](https://twitter.com/bestswngs)
 
-![](https://github-readme-stats.vercel.app/api?username=winmin&show_icons=true&theme=default )
+
+<details>
+  <summary> <b>  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">Things to know about me! </b></summary>
+
+
+ [![Github Stats By Swing](https://github-readme-stats.vercel.app/api?username=winmin&show_icons=true&theme=default)](https://github.com/winmin/)
+
+</details>
 
 
 <!--
